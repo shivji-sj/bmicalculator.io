@@ -19,6 +19,10 @@ height = st.number_input("Height in Meter")
 x = weight
 y= height
 
+
+# Enter button
+st.button(label="Calculate")
+
 # # bmi calculation 
 try:
 	bmi = x / y ** 2

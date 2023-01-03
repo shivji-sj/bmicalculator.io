@@ -1,4 +1,4 @@
-# bmicalculator 
+# BMI Calculator 
 
 Desc : BMI is the BODY MASS INDEX. It is a kind of measure that measure the fatness in your body.
 
